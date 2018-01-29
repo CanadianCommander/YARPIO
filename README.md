@@ -1,2 +1,3 @@
 # YARPIO
-Yet Another Raspberry Pi IO 
+Yet Another Raspberry Pi IO  Library 
+
